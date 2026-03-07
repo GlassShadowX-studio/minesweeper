@@ -2,6 +2,6 @@
 这是一个十分简易的扫雷游戏
 
 使用的资源：
-Gsap.min.js
+Gsap.min.js(原版)
 
-有使用GhatGPT和Deepseek的辅助。
+声明:制作此项目时有使用GhatGPT和Deepseek的辅助。
